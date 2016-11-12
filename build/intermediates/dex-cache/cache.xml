@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_c6c1ee30c86b42960df4450bd3fb4064ae42fcea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.3/1262995965440e28ba5c4d480c9c9ab4ccce84cc/picasso-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.3.3_779f35ae193b89a3bd5bb0c8beec17f0380083c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a565a74fd7429e8aba11c3b731ed5d70c0cf8af">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ef9f35a072ecf5d867445c23c51e056bfe585fb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_614bbf6260f64f9fe0b61f9310bcfcbfda98a5ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_fe50ed83daadaa7953dc53a7e9ee5eb23f5ed6b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_ec891edc466ee9ce2b2dcfb2db677489b4dcb45c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_27933e3ff75ed440f9bb2ebf708e14157a95540d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_67fca637751bb033987b02dde971c280e47443da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_05c032b2b8c0951355441374e64fdc487c956df1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_a5442a66956508f8e8cc69438ac969eee455e0cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_6df22f83fd14d4a99c7449be775dc82bb87a021e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_706c062a7d26365d51c18305a5799f20573f8d18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_abbb6cf6565e5391600f42e794cd7651128fa41b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_dc56bccc0efdc0a34212984ccf8a7d9a0bafe752/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_2adb0213bb5c292dc3508cc4f217d89c6b34a5da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_528300be0bb876e01eafe3381246556d84f061e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_3ca4091782136f574c520d9bce3779f8ed5689f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_ac06da6517732f9ef15c77cc395089280e3d4104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2fc330d2fb557d156c61a101ee6582292db0f943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_f1fdb1e248c1e71d33c064963fd9d3d033c119db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="992666df769267735f3f16c07716affb50b1584b">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bda55e8d9714990a8093edc1f4d754dca2e017ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_d53b7d6d76bbcf9705e09f0c004a03b62b558194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/jayesh/AndroidStudioProjects/ContactDirectory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_df12c23689f6d72a26a2f402ce97a02ef6c79cb7/classes.dex" />
+    </item>
+
+</items>

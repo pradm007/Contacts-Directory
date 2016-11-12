@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactDirectory</string>
+    <string name="hint_search">Search by name...</string>
+</resources>
